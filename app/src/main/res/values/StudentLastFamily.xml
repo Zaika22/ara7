@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="StudentLastFamily">
+        <item>Акимов</item>
+        <item>Турутин</item>
+        <item>Цибин</item>
+        <item>Слепцов</item>
+        <item>Кулакова</item>
+        <item>Рожков</item>
+        <item>Кузьмина</item>
+        <item>Якунина</item>
+        <item>Чистиков</item>
+        <item>Киреев</item>
+        <item>Филушкин</item>
+        <item>Кочетков</item>
+        <item>Гогорян</item>
+
+    </string-array>
+</resources>
